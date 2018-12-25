@@ -1,4 +1,4 @@
-package com.agoragames.leaderboard;
+package com.microfabrix.microleaderboard;
 
 public class LeaderData {
 

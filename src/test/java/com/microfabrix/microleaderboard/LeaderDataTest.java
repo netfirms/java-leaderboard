@@ -1,4 +1,4 @@
-package com.agoragames.leaderboard;
+package com.microfabrix.microleaderboard;
 
 import junit.framework.TestCase;
 
