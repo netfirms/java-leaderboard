@@ -2,3 +2,6 @@ target
 .settings
 .classpath
 **/*.class
+.idea/libraries
+.idea
+*.iml
